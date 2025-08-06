@@ -1,0 +1,8 @@
+pandas~=2.3.1
+docxtpl~=0.20.1
+google-api-python-client~=2.177.0
+matplotlib~=3.10.5
+seaborn~=0.13.2
+numpy~=2.3.2
+pytest~=8.4.1
+python-docx~=1.2.0
