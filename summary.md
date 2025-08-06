@@ -1,0 +1,1 @@
+# Executive Summary- **Total Revenue**: 66,000,000.00- **Gross Margin Pct**: 0.55- **Ebitda Margin Pct**: 0.42- **Avg Operating Cf**: 1,162,500.00- **Avg Net Cashflow**: 1,116,714.00![waterfall.png](output/waterfall.png)![EBITDA.png](output/timeseries/EBITDA.png)![NetCashFlow.png](output/timeseries/NetCashFlow.png)
